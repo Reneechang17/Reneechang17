@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Renee Chang👩👑
-- 👀 I’m interested in learning📑, dancing💃 and enjoying personal times💭
 - 🌱 I’m currently studying Computer Science at Northeastern University🇺🇸
-- 💞️ I’m looking for summer internship on 2024/2025, and open to relocate🚀
+- 💞️ I’m looking for summer/fall internship on 2024/2025, and open to relocate🚀
 - 📫 How to reach me ...
   💼 My LinkedIn profile: https://www.linkedin.com/in/renee-chang-37627624b/
   😎 My Instagram: https://www.instagram.com/imrenee_0617/
+  🌹 My Personal Portfolio: https://renee-chang.vercel.app/
 - ⚡ Some Fun facts About Me: 
   💻 I am computer science student with Business, Finance and Human Resources background!
   💃 I have been dancing for 8 years in Jazz, K-pop and Hip-hop!
