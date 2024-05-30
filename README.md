@@ -10,7 +10,7 @@
   - Frontend: React.js, Next.js, Redux.js, Tailwind CSS
   - Testing ang Others: Postman, Insonmia, JMeter, JUnit, CI/CD
   
-- Reach me ...
+- Reach out me ...
   - 💼 LinkedIn: https://www.linkedin.com/in/renee-chang-37627624b/
   - 😎 Instagram: https://www.instagram.com/imrenee_0617/
   - 🌹 Email: reneechang617@gmail.com
