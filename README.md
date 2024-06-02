@@ -3,12 +3,12 @@
 
 - 🚀 Skills
   - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++, R
-  - Backend: Node.js, Express.js, Spring Boot, REST APIs, API Gateway 
+  - Backend: Node.js, Express.js, Spring Boot, REST APIs, API Gateway, Webhook, nginx
   - Cloud Services: S3, ECS, ECR, EC2, EKS, AWS, CloudFormation, Google Cloud Platform, Firebase
   - Databases: Postgres, MongoDB, MySQL, Prisma, Redis, ClickHouse
-  - Tools: Docker, Kubernetes, Kafka, RabbitMQ, Eureka, WebSocket, Git, JWT
+  - Tools: Docker, Kubernetes, Kafka, RabbitMQ, Eureka, Git, JWT, WebSocket
   - Frontend: React.js, Next.js, Redux.js, Tailwind CSS
-  - Testing ang Others: Postman, Insonmia, JMeter, JUnit, CI/CD
+  - Testing ang Others: Postman, Insonmia, JMeter, JUnit, Agile
   
 - Reach out me ...
   - 💼 LinkedIn: https://www.linkedin.com/in/renee-chang-37627624b/
