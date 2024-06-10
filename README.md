@@ -13,7 +13,7 @@
   
 - Reach out me ...
   - 💼 LinkedIn: https://www.linkedin.com/in/renee-chang-37627624b/
-  - 😎 Instagram: https://www.instagram.com/imrenee_0617/
+  - 😎 Portfolio: https://renee-chang.vercel.app/
   - 🌹 Email: reneechang617@gmail.com
 
 
