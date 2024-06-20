@@ -8,7 +8,7 @@
   - Databases: Postgres, MongoDB, MySQL, Prisma, Redis, ClickHouse
   - Tools: Docker, Kubernetes, Kafka, RabbitMQ, Eureka, Git, JWT, WebSocket, nginx
   - Frontend: React.js, Next.js, Redux.js, Tailwind CSS
-  - Testing ang Others: Postman, Insonmia, JMeter, JUnit, Agile
+  - Testing ang Others: Postman, JMeter, JUnit, Agile
   - DevOps: Jenkins, Grafana, Prometheus
   
 - Reach out me ...
