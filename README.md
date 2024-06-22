@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renee, currently studying Computer Science at Northeastern University
-  - I’m looking for summer/fall internship on 2024/2025, and open to relocate
+  - I’m looking for **summer/fall internship on 2024/2025**, and open to relocate
 
 - 🚀 Skills
   - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++, R, SQL, HTML/CSS
