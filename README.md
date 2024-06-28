@@ -2,12 +2,6 @@
   - I’m looking for **summer/fall internship on 2024/2025**, and open to relocate
 
 - 🚀 Skills
-| Tech Stack          | What I Used  |
-| ------------------ | ------- |
-| `Programming`       | `Java, Python, JavaScript, GO, TypeScript, C/C++` |
-| `Backend` | `Spring Boot, Node.js, Express.js, REST APIs, API Gateway` |
-
-
   - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++
   - Backend: Spring Boot, Node.js, Express.js, REST APIs, API Gateway
   - Tools: Kafka, RabbitMQ, Eureka, Ribbon, Kubernetes, Docker, WebSocket,Elasticsearch, Jenkins, Prometheus, Grafana, SonarQube
