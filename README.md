@@ -2,9 +2,18 @@
   - I’m looking for **summer/fall internship on 2024/2025**, and open to relocate
 
 - 🚀 Skills
-  - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++, R, SQL, HTML/CSS
-  - Frameworks and Tools: Spring Boot, Node.js, Express.js, React, Next.js, Agular, Kafka, RabbitMQ, API Gateway, WebSocket, Eureka, Ribbon, REST APIs, Kubernetes, Docker, Nginx, Git, JUnit, Elasticsearch, Jenkins, Prometheus, Grafana, Terraform
-  - Databases & Cloud Services: Postgres, MongoDB, MySQL, Redis, Prisma ORM, ClickHouse, Firebase, AWS (S3, ECS, ECR, EC2, EKS, RDS, CloudFormation, DynamoDB), Google Cloud Platform, Oracle, Azure
+
+| `Programming`       | `Java, Python, JavaScript, GO, TypeScript, C/C++` |
+| `Backend` | `Spring Boot, Node.js, Express.js, REST APIs, API Gateway` |
+| `s3-reverse-proxy` | `:8000` |
+
+  - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++
+  - Backend: Spring Boot, Node.js, Express.js, REST APIs, API Gateway
+  - Tools: Kafka, RabbitMQ, Eureka, Ribbon, Kubernetes, Docker, WebSocket,Elasticsearch, Jenkins, Prometheus, Grafana, SonarQube
+  - Frontend: React, Next.js, Redux.js
+  - Databases: Postgres, MongoDB, MySQL, Redis, Prisma ORM, ClickHouse
+  - Clouds: AWS (S3, ECS, ECR, EC2, EKS, RDS), Google Cloud Platform
+  - Test ang Other: JUnit, JMeter, Selenium, Postman, Git, CI/CD, reverse proxy, DNS, TCP/IP
   - Soft Skills: Teamwork, Problem-solving, Time Management, Communication, Leadership
 
   
