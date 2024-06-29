@@ -1,5 +1,17 @@
 <h1 align="center">Hi, I'm Renee🙋‍♀️ </h1>
-<h3 align="center">Actively looking for **summer/fall internship on 2024/2025**, and open to relocate </h3>
+<h3 align="center">A passionate software engineer</h3>
+
+- 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
+- 🚀 Actively looking for **24fall & 25 spring/summer** internship/Coop, and open to relocate!
+- 🎵 Love Kpop and City Pop music!
+- 🤝 Open to chill chat or deeper talk about career and crypto?
+- 📮 Reach out me: reneechang617@gmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/renee617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/renee617/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/imrenee_0617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrenee_0617" height="30" width="40" /></a>
+</p>
 
 - 🚀 Skills
   - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++
