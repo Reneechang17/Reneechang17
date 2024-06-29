@@ -72,7 +72,6 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
 </p>
 
-<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reneechang17&hide_progress=true)</p>
 
   If you have internship opportunities and want to contact to me, or make a friend with me, even more just want to find a person to talk!(I can be a good listener!)
   Please feel free to contact me!! 🤝
