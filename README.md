@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Renee </h1>
-- 👋 Hi, I’m Renee, currently studying Computer Science at Northeastern University
-  - I’m looking for **summer/fall internship on 2024/2025**, and open to relocate
+<h1 align="center">Hi, I'm Renee🙋‍♀️ </h1>
+<h3 align="center">Currently pursing master degree in Computer Science @ Northeastern University</h3>
+<h3 align="center">Actively looking for **summer/fall internship on 2024/2025**, and open to relocate </h3>
 
 - 🚀 Skills
   - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++
