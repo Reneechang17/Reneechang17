@@ -63,18 +63,16 @@
 
 <h3 align="left">Databases & Clouds: </h3>
 <p align="left">
+<img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
 </p>
-- 🚀 Skills
-  - Programming: Java, Python, JavaScript, GO, TypeScript, C/C++
-  - Backend: Spring Boot, Node.js, Express.js, REST APIs, API Gateway
-  - Tools: Kafka, RabbitMQ, Eureka, Ribbon, Kubernetes, Docker, WebSocket,Elasticsearch, Jenkins, Prometheus, Grafana, SonarQube
-  - Frontend: React, Next.js, Redux.js
-  - Databases: Postgres, MongoDB, MySQL, Redis, Prisma ORM, ClickHouse
-  - Clouds: AWS (S3, ECS, ECR, EC2, EKS, RDS), Google Cloud Platform
-  - Test ang Other: JUnit, JMeter, Selenium, Postman, Git, CI/CD, reverse proxy, DNS, TCP/IP
-  - Soft Skills: Teamwork, Problem-solving, Time Management, Communication, Leadership
 
-  
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reneechang17&hide_progress=true)</p>
 
   If you have internship opportunities and want to contact to me, or make a friend with me, even more just want to find a person to talk!(I can be a good listener!)
   Please feel free to contact me!! 🤝
