@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Renee🙋‍♀️ </h1>
-<h3 align="center">A passionate software engineer</h3>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Acme&weight=500&size=30&pause=1000&color=0D8B19&random=false&width=435&lines=Hi!+I'm+Renee%F0%9F%91%8B;Welcome+to+my+Github!" alt="Typing SVG" /></a>
+</h1>
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
 - 🚀 Actively looking for **24fall & 25 spring/summer** internship/Coop, and open to relocate!
