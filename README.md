@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Renee </h1>
 - 👋 Hi, I’m Renee, currently studying Computer Science at Northeastern University
   - I’m looking for **summer/fall internship on 2024/2025**, and open to relocate
 
