@@ -4,7 +4,7 @@
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
 - 🚀 Actively looking for **24fall & 25 spring/summer** internship/Coop, and open to relocate!
-- 🤝 Open to coffe chat or deeper talk about career/crypto/relationship/Anything you want
+- 🤝 Open to coffe chat or deeper talk about career/crypto/value investment/Anything you want
 - 🎵 Love Kpop and City Pop music!
 - 📮 Reach out me: reneechang617@gmail.com
 
