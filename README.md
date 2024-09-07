@@ -7,6 +7,7 @@
 - 🤝 Open to coffe chat or deeper talk about career or any topic you want
 - 🎵 Love Kpop and City Pop music!
 - 📮 Reach out me: reneechang617@gmail.com
+- My favorite IP is Eggy and I look like him (See my avatar, the bigger yellow one)
 
 
 <h3 align="left">Connect with me:</h3>
