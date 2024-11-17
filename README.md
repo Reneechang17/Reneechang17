@@ -69,11 +69,11 @@
 
 <h3 align="left">AWS Services: </h3>
 <p align="left">
-<img width="40" src="https://en.wikipedia.org/wiki/AWS_Lambda#/media/File:Amazon_Lambda_architecture_logo.svg" alt="Lambda" title="Lambda"/>
+<img width="40" src="https://miro.medium.com/v2/resize:fit:506/0*uoRkNnhqu3d61Zgx.png" alt="Lambda" title="Lambda"/>
 <img width="40" src="https://miro.medium.com/v2/resize:fit:400/1*McUzTv2tJ0TngT6Yec_ExA.png" alt="API Gateway" title="API Gateway"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Cognito" title="Cognito"/>
-<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="RDS" title="RDS"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="S3" title="S3"/>
+<img width="40" src="https://miro.medium.com/v2/resize:fit:400/1*ZjS_BtHvohZJc6lqHOsdJw.png" alt="Cognito" title="Cognito"/>
+<img width="40" src="https://miro.medium.com/v2/resize:fit:600/1*w7l_juI3zKXit-dXpSS0Mg.png" alt="RDS" title="RDS"/>
+<img width="40" src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="S3" title="S3"/>
 <img width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/clickhouse.svg" alt="CloudWatch" title="CloudWatch"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="ECR" title="ECR"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="ECS" title="ECS"/>
