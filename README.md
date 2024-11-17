@@ -53,7 +53,6 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
 </p>
 
 <h3 align="left">Databases & Clouds: </h3>
@@ -65,10 +64,22 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
 <img width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/clickhouse.svg" alt="ClickHouse" title="ClickHouse"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
 </p>
 
+<h3 align="left">AWS Services: </h3>
+<p align="left">
+<img width="40" src="https://en.wikipedia.org/wiki/AWS_Lambda#/media/File:Amazon_Lambda_architecture_logo.svg" alt="Lambda" title="Lambda"/>
+<img width="40" src="https://miro.medium.com/v2/resize:fit:400/1*McUzTv2tJ0TngT6Yec_ExA.png" alt="API Gateway" title="API Gateway"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Cognito" title="Cognito"/>
+<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" alt="RDS" title="RDS"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="S3" title="S3"/>
+<img width="40" src="https://github.com/onemarc/tech-icons/blob/main/icons/clickhouse.svg" alt="CloudWatch" title="CloudWatch"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="ECR" title="ECR"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="ECS" title="ECS"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="EKS" title="EKS"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="EC2" title="EC2"/>
+</p>
 
 <!---
 Reneechang17/Reneechang17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
