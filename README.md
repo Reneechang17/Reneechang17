@@ -3,10 +3,11 @@
 </h1>
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
-- 🚀 Actively looking for **25 spring/summer** internship/Coop, and open to relocate!
-- 🤝 Open to coffe chat or deeper talk about career or any topic you want
+- 🚀 Actively looking for **26 Spring** internship/Coop, and **New Grad** role for 2026!
+- 😄 Cloud Architect Coop @ Wintergreen, Incoming SDE intern @ Amazon, ex-SWE @ World Salon
+- 🤝 Open to coffe chat about career or any topic you want.
 - 🎵 Love Kpop and City Pop music!
-- 📮 Reach out me: reneechang617@gmail.com
+- 📮 Reachout me: reneechang617@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
