@@ -3,8 +3,8 @@
 </h1>
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
-- 🚀 Looking for **26 Spring** internship/Coop, and **New Grad** role for 2026!
-- 💻 Strong interested in backend, distributed systems, microservices, and cloud infrastructure
+- 🚀 Looking for **26 Spring** internship/Coop, and **New Grad** roles for 2026!
+- 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
 - 🎵 Love Kpop and City Pop music!
 - 📮 Reachout me: reneechang617@gmail.com
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE @ World Salon
