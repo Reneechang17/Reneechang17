@@ -9,13 +9,13 @@
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
 
 <h3 align="left">What I used:</h3>
-<p align="left">
+<!-- <p align="left"> -->
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
 - 🚀 Actively Looking for **New Grad** roles for 2026!
 - 💻 Interested in backend, distributed systems, microservices, and cloud computing~
 - 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
-</p>
+<!-- </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
