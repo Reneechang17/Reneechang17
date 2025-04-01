@@ -3,18 +3,10 @@
 </h1>
 
 - 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
-- 🚀 Looking for **26 Spring** internship/Coop, and **New Grad** roles for 2026!
-- 💻 Interested in backend, distributed systems, microservices, and cloud infrastructure
-- 🎵 Love Kpop and City Pop music!
+- 🚀 Actively Looking for **New Grad** roles for 2026!
+- 💻 Interested in backend, distributed systems, microservices, and cloud computing~
 - 📮 Reachout me: reneechang617@gmail.com
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/renee617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/renee617/" height="30" width="30" /></a>
-<a href="https://www.instagram.com/imrenee_0617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrenee_0617" height="30" width="30" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -53,6 +45,12 @@
 <img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 <img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="NPM" title="NPM"/>
   
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/renee617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/renee617/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/imrenee_0617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imrenee_0617" height="30" width="30" /></a>
 </p>
 
 <!---
