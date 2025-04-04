@@ -8,6 +8,15 @@
 - 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
 
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+- 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
+- 🚀 Actively Looking for **New Grad** roles for 2026!
+- 💻 Interested in backend, distributed systems, microservices, and cloud computing~
+- 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
+- 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/renee617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/renee617/" height="30" width="30" /></a>
