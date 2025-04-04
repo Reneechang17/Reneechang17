@@ -13,7 +13,7 @@
   - 💻 Programming: Java, Golang, Python, JavaScript/TypeScript, SQL, PHP
 </p> 
 <p align="left">  
-  - 🔧 Frameworks & Tools: Spring Boot, Node.js, Express, Laravel, RESTful APIs, Docker, Kafka, Eureka, Zipkin, RabbitMQ, Kubernetes, Jenkins, Prometheus, Grafana
+  - 🔧 Frameworks & Tools: Spring Boot, Node.js, Express, Laravel, RESTful APIs, GraphQL, gRPC, Docker, Kafka, Eureka, Zipkin, RabbitMQ, Kubernetes, Jenkins, Prometheus, Grafana
 </p> 
 <p align="left"> 
   - 📊 Database: Postgres, MySQL, MariaDB, Redis, ClickHouse, MongoDB
