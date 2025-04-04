@@ -8,13 +8,16 @@
 - 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 - 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-- 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
-- 🚀 Actively Looking for **New Grad** roles for 2026!
-- 💻 Interested in backend, distributed systems, microservices, and cloud computing~
-- 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
-- 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
+<h3 align="left">Tech Stack:</h3> 
+<p align="left"> 
+  - **Programming:** - Python - Java - C++ - JavaScript - Go - TypeScript - SQL 
+</p> 
+<p align="left"> 
+  - **Frameworks & Tools:** - Spring Boot - Flask - Node.js - React - Docker - Kubernetes - Git - Jenkins - Terraform - Apache Kafka 
+</p> 
+<p align="left"> - **Database:** - MySQL - PostgreSQL - MongoDB - Redis - Cassandra 
+</p> 
+<p align="left"> - **Clouds:** - AWS - Google Cloud Platform (GCP) - Microsoft Azure - Kubernetes on Cloud 
 </p>
 
 <h3 align="left">Connect with me:</h3>
