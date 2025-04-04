@@ -10,14 +10,19 @@
 
 <h3 align="left">Tech Stack:</h3> 
 <p align="left"> 
-  - **Programming:** - Python - Java - C++ - JavaScript - Go - TypeScript - SQL 
+  - Programming: Java, Golang, Python, JavaScript/TypeScript, SQL, PHP
+</p> 
+<p align="left">  
+  - Frameworks & Tools: Spring Boot, Node.js, Express, Laravel, RESTful APIs, Docker, Kafka, Eureka, Zipkin, RabbitMQ, Kubernetes, Jenkins, Prometheus, Grafana
 </p> 
 <p align="left"> 
-  - **Frameworks & Tools:** - Spring Boot - Flask - Node.js - React - Docker - Kubernetes - Git - Jenkins - Terraform - Apache Kafka 
+  - Database: Postgres, MySQL, MariaDB, Redis, ClickHouse, MongoDB
 </p> 
-<p align="left"> - **Database:** - MySQL - PostgreSQL - MongoDB - Redis - Cassandra 
-</p> 
-<p align="left"> - **Clouds:** - AWS - Google Cloud Platform (GCP) - Microsoft Azure - Kubernetes on Cloud 
+<p align="left"> 
+  - Clouds-AWS: S3, RDS, EC2, ELB, IAM, API Gateway, Lambda, CloudWatch, Route53, SageMaker, Athena, Step Function, CloudFront, Cognito(Auth), ECS, ECR
+</p>
+<p align="left"> 
+  - Others: P2P Architecture, TCP/IP, Encryption(AES, CTR Mode, SHA-1 Hashing), GOB(Serialization/Deserialization), Concurrency and Synchronization(Goroutines, Channels, Mutex)
 </p>
 
 <h3 align="left">Connect with me:</h3>
