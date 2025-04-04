@@ -22,7 +22,7 @@
   - ☁️ Clouds-AWS: S3, RDS, EC2, ELB, IAM, API Gateway, Lambda, CloudWatch, Route53, SageMaker, Athena, Step Function, CloudFront, Cognito(Auth), ECS, ECR
 </p>
 <p align="left"> 
-  - Others: P2P Architecture, TCP/IP, Encryption(AES, CTR Mode, SHA-1 Hashing), GOB(Serialization/Deserialization), Concurrency and Synchronization(Goroutines, Channels, Mutex)
+  - 📖 Others: P2P Architecture, TCP/IP, Encryption(AES, CTR Mode, SHA-1 Hashing), GOB(Serialization/Deserialization), Concurrency and Synchronization(Goroutines, Channels, Mutex)
 </p>
 
 <h3 align="left">Connect with me:</h3>
