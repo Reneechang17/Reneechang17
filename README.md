@@ -3,27 +3,26 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi!+I'm+Renee%F0%9F%91%8B;Welcome+to+my+Github~" alt="Typing SVG" /></a> -->
 </h1>
 
-- 🌟 Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
-- 🚀 Actively Looking for **New Grad** roles for 2026!
-- 💻 Interested in backend, distributed systems, microservices, and cloud computing~
-- 📮 Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
-- 🙋 Cloud Architect Coop @ Wintergreen, ex-SWE intern @ World Salon, incoming SWE intern @ Apple
+- Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
+- Actively Looking for **New Grad** roles for 2026!
+- Interested in backend, distributed systems, microservices, and cloud computing~
+- Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 
 <h3 align="left">Tech Stack:</h3> 
 <p align="left"> 
-  - 💻 Programming: Java, Golang, Python, JavaScript/TypeScript, SQL, PHP
+  - Programming: Java, Golang, Python, JavaScript/TypeScript, SQL, PHP
 </p> 
 <p align="left">  
-  - 🔧 Frameworks & Tools: Spring Boot, Node.js, Express, Laravel, RESTful APIs, GraphQL, gRPC, Docker, Kafka, Eureka, Zipkin, RabbitMQ, Kubernetes, Jenkins, Prometheus, Grafana
+  - Frameworks & Tools: Spring Boot, Node.js, Express, Laravel, RESTful APIs, gRPC, Docker, Kafka, RabbitMQ, Kubernetes, Jenkins, Prometheus, Grafana
 </p> 
 <p align="left"> 
-  - 📊 Database: Postgres, MySQL, MariaDB, Redis, ClickHouse, MongoDB
+  - Database: Postgres, MySQL, MariaDB, Redis, ClickHouse, MongoDB
 </p> 
 <p align="left"> 
-  - ☁️ Cloud(AWS): S3, RDS, EC2, ELB, IAM, API Gateway, Lambda, CloudWatch, Route53, SageMaker, Athena, Step Function, CloudFront, Cognito(Auth), ECS, ECR
+  - Cloud(AWS): S3, RDS, EC2, ELB, IAM, API Gateway, Lambda, CloudWatch, Route53, SageMaker, Athena, Step Function, CloudFront, ECS, ECR
 </p>
 <p align="left"> 
-  - 🔒 Networking & Security: P2P Architecture, TCP/IP, Encryption(AES, CTR Mode, SHA-1 Hashing), GOB(Serialization/Deserialization), Concurrency and Synchronization(Goroutines, Channels, Mutex)
+  - Networking & Security: P2P Architecture, TCP/IP, Encryption(AES, CTR Mode, SHA-1 Hashing), GOB(Serialization/Deserialization), Concurrency and Synchronization(Goroutines, Channels, Mutex)
 </p>
 
 <h3 align="left">Connect with me:</h3>
