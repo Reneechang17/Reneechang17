@@ -6,7 +6,7 @@
 - Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
 - Actively Looking for **New Grad** roles for 2026!
 - Interested in backend, distributed systems, microservices, and cloud computing~
-- Reachout me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
+- Reach out me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
