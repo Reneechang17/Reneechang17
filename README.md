@@ -3,9 +3,9 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi!+I'm+Renee%F0%9F%91%8B;Welcome+to+my+Github~" alt="Typing SVG" /></a> -->
 </h1>
 
-- Currently pursuing master degree in computer science @ Northeastern Univeristy🇺🇸
+- Currently pursuing master degree in CS @ Northeastern Univeristy🇺🇸 
 - Actively Looking for **New Grad** roles for 2026!
-- Interested in backend, distributed systems, microservices, and cloud computing~
+- Interest in containers and keep learning all computer stuffs!
 - Reach out me: reneechang617@gmail.com(primary)/chang.min@northeastern.edu(school)
 
 <h3 align="left">Connect with me:</h3>
