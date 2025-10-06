@@ -1,8 +1,7 @@
-<h1 align="center">Hi! I'm Renee!</h1>
+<p>Hi! My name is Renee</p>
+<p>MSCS @ Northeastern University · Containers & Systems & Backend</p>
 
-<p align="center"><b>MSCS @ Northeastern University · Containers & Systems & Backend</b></p>
-
-<p align="center">
+<p>
   <img src="assets/juanxincai.png" alt="Snorlax" width="140">
   <br/>
   <sub>I like Snorlax!</sub>
