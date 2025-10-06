@@ -1,10 +1,5 @@
-<p>Hi! My name is Renee</p>
-<p>MSCS @ Northeastern University · Containers & Systems & Backend</p>
-
 <p>
   <img src="assets/juanxincai.png" alt="Snorlax" width="140">
-  <br/>
-  <sub>I like Snorlax!</sub>
 </p>
 
 <p>
