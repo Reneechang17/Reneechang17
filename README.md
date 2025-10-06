@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Renee! 👋</h1>
+<h1 align="center">Hi! I'm Renee!</h1>
 
 <p align="center"><b>MSCS @ Northeastern University · Containers & Systems & Backend</b></p>
 
