@@ -7,6 +7,10 @@
   <a href="mailto:chang.min@northeastern.edu">chang.min@northeastern.edu</a> (school)
 </p>
 
+<p>
+  Tmp leave for finding a full time job :DDD(hopefully soon...:>
+</p>
+
 <!---
 Reneechang17/Reneechang17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
