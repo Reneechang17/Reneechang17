@@ -4,7 +4,7 @@
 
 <p>
   Hello! My name is Renee and welcome to my fav place where I learn, think and build (and find the interesting projects!)
-  If you are also love it let's keep connecting and learning together :D
+  If you are also love it, let's keep connecting and learning together :D
 </p>
 
 <p>
