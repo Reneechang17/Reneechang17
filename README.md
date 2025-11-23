@@ -1,9 +1,11 @@
 
 <p>
   Hi! My name is Renee and welcome to my fav place where I learn, think and build (and find interesting projects!)
-  I'm interested in all things systems, Linux and containers! And I love learning from awesome projects and people!
-  Let's always be curious!
 </p>
+
+<p>I'm interested in all things systems, Linux and containers! And I love learning from awesome projects and people!</p>
+
+<p>Let's always be curious!</p>
 
 <p>
   Reach out to me: <a href="mailto:reneechang617@gmail.com">reneechang617@gmail.com</a> (primary) /
