@@ -1,10 +1,8 @@
-<p>
-  <img src="assets/juanxincai.png" alt="Snorlax" width="140">
-</p>
 
 <p>
-  Hello! My name is Renee and welcome to my fav place where I learn, think and build (and find the interesting projects!)
-  If you are also love it, let's keep connecting and learning together :D
+  Hi! My name is Renee and welcome to my fav place where I learn, think and build (and find interesting projects!)
+  I'm interested in all things systems, Linux and containers! And I love learning from awesome projects and people!
+  Let's always be curious!
 </p>
 
 <p>
