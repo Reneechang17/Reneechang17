@@ -1,9 +1,5 @@
 
-<p>
-  Hi! My name is Renee and welcome to my fav place where I learn, think and build (and find interesting projects!)
-</p>
-
-<p>I'm interested in all things systems, Linux and containers! And I love learning from awesome projects and people!</p>
+<p>Hi! My name is Renee! I'm interested in all things systems, Linux and containers! And I love to explore ideas and make them real!</p>
 
 <p>Let's always be curious!</p>
 
